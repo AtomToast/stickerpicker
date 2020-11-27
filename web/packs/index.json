@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "DT_Funpack.json"
+  ],
+  "homeserver_url": "https://matrix-client.matrix.org"
+}
