@@ -1,6 +1,7 @@
 {
   "packs": [
-    "DT_Funpack.json"
+    "DT_Funpack.json",
+    "Brodies_Emotes.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
